@@ -9,6 +9,6 @@ organizations:
   - name: Organizacja
 education:
   courses: []
-superuser: true
+superuser: false
 ---
 Urodziłem się w Ala ma kota
