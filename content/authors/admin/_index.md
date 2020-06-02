@@ -1,6 +1,6 @@
 ---
 title: admin
-avatar_filename: millenium_daria_godyń.jpg
+avatar_filename: avatar.jpg.jpg
 superuser: true
 ---
 Pan admin
